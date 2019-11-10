@@ -1,0 +1,4 @@
+ink-extensions==1.0.2
+lxml==4.4.1
+pyaxidraw==2.5.3
+pyserial==3.4

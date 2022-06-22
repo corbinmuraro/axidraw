@@ -1,7 +1,7 @@
 docopt==0.6.2
 ink-extensions==1.0.2
 lxml==4.4.1
-numpy==1.17.4
+numpy==1.22.0
 pyaxidraw==2.5.3
 pyparsing==2.4.5
 pyserial==3.4
